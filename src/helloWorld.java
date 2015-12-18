@@ -1,5 +1,5 @@
 /**
- * Created by Ronan on 29/11/2015.
+ * Created by ExposedGun on 29/11/2015.
  */
 import java.util.Scanner;
 

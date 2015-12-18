@@ -1,5 +1,5 @@
 /**
- * Created by Ronan on 02/12/2015.
+ * Created by ExposedGun on 02/12/2015.
  */
 public class FizzBuzz {
     public static void main(String[] args){
